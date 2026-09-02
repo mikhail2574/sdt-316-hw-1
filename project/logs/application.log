@@ -1,0 +1,4 @@
+2026-09-02T18:24:00Z INFO  service=video-gateway event=STARTING
+2026-09-02T18:24:01Z ERROR service=video-gateway event=CONNECTION_FAILED source=camera-01
+2026-09-02T18:24:02Z INFO  service=video-gateway event=RETRY_SCHEDULED delay_seconds=5
+
